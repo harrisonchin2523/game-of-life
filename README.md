@@ -1,1 +1,1 @@
-# cs3110-finalproject
+# The Game of Life
